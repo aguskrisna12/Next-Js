@@ -1,41 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# Agus Krisna Module 5 Project
 
-## Getting Started
+Welcome to the **Shopping Cart Simulation** project demo! This application demonstrates a user-friendly shopping cart system integrated with a public API. Explore features like login, product browsing, and cart management.
 
-First, run the development server:
+[**Live Demo**](https://next-js-chi-umber-18.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## About the Project
+This project simulates a shopping cart application using the [Platzi Fake API](https://fakeapi.platzi.com/en/about/introduction/). The app provides core functionalities such as user authentication, product management, and dynamic cart operations.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Key Features
+- **Login**: Secure authentication for users to access personalized features.
+- **Register**: Create a new user account for first-time visitors.
+- **Show Products**: Browse a list of products fetched from the API.
+- **Add to Cart**: Select items to add them to your shopping cart.
+- **Remove from Cart**: Remove items from your cart as needed.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Technologies Used
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+### Frontend
+- **HTML5**: Markup for structuring the application.
+- **JavaScript**: Core functionality and interactivity.
+- **React.js**: Building user interfaces.
+- **Next.js**: Building user interfaces.
+- **Tailwind**: Utility-first CSS framework for styling.
+- **SSR**: Server-side rendering for improved performance and SEO.
+- **React Hooks**: Efficiently manage state and side effects.
+- **Jest**: Testing framework for JavaScript.
+- **React Testing Library**: Testing library for React.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+### Tools & Deployment
+- **Git/GitHub**: Version control and repository management.
+- **VS Code**: Code editor for development.
+- **Vercel**: Platform for seamless deployment and hosting.
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## How to Use
+1. **Login/Register**: Create an account or log in with your credentials.
+2. **Browse Products**: Explore the list of products available on the homepage.
+3. **Add to Cart**: Click the "Add to Cart" button on any product to add it to your shopping cart.
+4. **View Cart**: Navigate to your cart to see selected items.
+5. **Remove Items**: Remove unwanted items from the cart.
+6. **See Detail**: Click the "See Detail" button on any product to see the detail of the product.
 
-## Learn More
+<br>
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
-# Next-Js
+Developed by Agus Krisna.
